@@ -1,0 +1,128 @@
+header{
+    width: 100%;
+    height: 100px;
+}
+
+.pic1{
+    width: 350px;
+}
+
+.mokuji{
+    height: 50px;
+    background-color: black;
+}
+
+header ul{
+    list-style: none;
+    color: white;
+ }
+
+header ul li{
+     line-height: 50px;
+     float: left;
+     padding-left: 60px;
+}
+
+main{
+    clear: both;
+}
+
+.main-container{
+    width: 95%;
+    margin: 0auto;
+    margin-top: 10px;
+}
+
+.left_box{
+    float:left;
+    width: 70%;
+}
+
+.left_box h1{
+    border-left: 5px solid black;
+    border-bottom: 4px solid black;
+    height: 50px;
+    padding-left: 10px;
+    line-height: 50px;
+}
+
+.form{
+    background-color: #fbfbfb;
+    border: 3px #ebebeb solid;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+.form h2{
+    border-left: 3px red solid;
+    padding-left: 5px;
+    height: 30px;
+    line-height: 30px;
+}
+
+.submit{
+    border: 1px solid lightgray;
+    padding: 4px 10px;
+    color: white;
+    background-color: #bfbfbf;
+    border-radius: 5px;
+    border-bottom: solid 2px gray;
+}
+
+.com{
+    background-color: #fbfbfb;
+    border: 3px #ebebeb solid;
+    border-radius: 10px;
+    padding-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: -10px;
+    padding-left: 10px;
+}
+
+.com h2{
+    border-bottom: 3px solid lightgray;
+    width: 95%;
+    font-size: 20px;
+}
+
+.handlename{
+    padding-top: 5px;
+    font-size: 15px;
+}
+
+.right_box{
+    float: left;
+    width: 25%;
+    margin-left: 50px;
+}
+
+.right_box ul{
+    font-size: large;
+}
+
+.right_box li{
+    padding-top: 10px;
+}
+
+.right_box h2{
+    border-bottom: 2px dotted black;
+}
+
+.right_box ul li{
+    list-style: none;
+}
+
+footer{
+    clear: left;
+    height: 60px;
+    width: 100%;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+footer p{
+    line-height: 60px;
+}
